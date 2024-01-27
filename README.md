@@ -1,6 +1,6 @@
 # flutter_office_1
 
-A new Flutter project.
+MajlisGram Flutter project.
 
 ## Getting Started
 
