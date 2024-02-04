@@ -1,6 +1,6 @@
 # MAJLISGRAM-flutter_office_1
 
-MajlisGram Flutter project.
+MajlisGram Flutter project.majlisGram
 
 ## Getting Started
 
