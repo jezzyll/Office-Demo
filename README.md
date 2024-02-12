@@ -1,6 +1,6 @@
 # Majlis-office-Demo
 
-A new Flutter project-MAJLISGRAM 
+A new DEMO Flutter project-MAJLISGRAM 
 
 ## Getting Started
 
