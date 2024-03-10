@@ -2,7 +2,6 @@
 
 A new DEMO Flutter Project
 
-
 ## Getting Started
 
 This project is a starting point for a Flutter Application.
